@@ -1,0 +1,61 @@
+<html>
+<head>
+<script type="text/javascript">
+function f1()
+{
+document.getElementById("num").style.fontWeight="bold";
+}
+function f2()
+{
+document.getElementById("num").style.fontStyle="italic";
+}
+function f3()
+{
+document.getElementById("num").style.textTransform="uppercase";
+}
+function f4()
+{
+document.getElementById("num").style.textTransform="lowercase";
+}
+function f5()
+{
+document.getElementById("num").style.textTransform="capitalize";
+}
+function f6()
+{
+document.getElementById("num").style.textAlign="right";
+}
+function f7()
+{
+document.getElementById("num").style.textAlign="left";
+}
+function f8()
+{
+document.getElementById("num").style.textAlign="center";
+}
+
+function f9()
+{
+document.getElementById("num").style.fontWeight = "normal";
+document.getElementById("num").style.textAlign = "left";
+document.getElementById("num").style.fontStyle = "normal";
+}
+</script>
+</head>
+<body>
+<form>
+<input type="button" onclick="f1()"  value="Bold">
+<input type="button" onclick="f2()"  value="Italics">
+<input type="button" onclick="f3()"  value="All Caps">
+<input type="button" onclick="f4()"  value="Small Caps">
+<input type="button" onclick="f5()"  value="Title Case">
+<input type="button" onclick="f6()"  value="Align Right">
+<input type="button" onclick="f7()"  value="Align Left">
+<input type="button" onclick="f8()"  value="Align Center">
+<input type="button" onclick="f9()"  value="Clear Formatting">
+<textarea rows="10" cols="35" id="num">
+Simple Text Editor using JavaScript
+</textarea>
+</form>
+</body>
+</html>

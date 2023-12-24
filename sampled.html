@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <script type="text/javascript">
+        function f1()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=a+b;
+        }
+        function f2()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=a-b;
+        }
+        function f3()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=a*b;
+        }
+        function f4()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=a/b;
+        }
+        function f5()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=Math.sin(a);
+        }
+        function f6()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=Math.cos(a);
+        }
+        function f7()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=Math.tan(a);
+        }
+        function f8()
+        {
+            var a=Number(document.getElementById("n1").value);
+            var b=Number(document.getElementById("n2").value);
+            document.getElementById("n3").value=a*a;
+        }
+        function f9()
+        {
+            document.getElementById("n1").value=" ";
+            document.getElementById("n2").value=" ";
+            document.getElementById("n3").value=" ";
+        }
+        </script>
+    </head>
+    <body>
+        <form>
+            <input type="button" onclick="f1()"  value="Add">
+            <input type="button" onclick="f2()"  value="Subtract">
+            <input type="button" onclick="f3()"  value="Multiply">
+            <input type="button" onclick="f4()"  value="Divide">
+            <input type="button" onclick="f5()"  value="Sin A">
+            <input type="button" onclick="f6()"  value="Cos A">
+            <input type="button" onclick="f7()"  value="Tan A">
+            <input type="button" onclick="f8()"  value="A Square">
+            <input type="button" onclick="f9()"  value="Clear">
+            enter num1:
+            <input type="text" id="n1">
+            enter num2:
+            <input type="text" id="n2">
+            result:
+            <input type="text" id="n3">
+        </form>
+    </body>
+</html>
+

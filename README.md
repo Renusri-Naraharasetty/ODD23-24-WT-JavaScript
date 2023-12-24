@@ -55,7 +55,8 @@ function calc()
 ```
 
 ## OUTPUT :
-![Alt text](a.png)
+![a](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/d5aba0fe-a056-430d-8a1a-66c2ea4eef47)
+
 
 
 
@@ -105,7 +106,8 @@ Run the code to calculate the factorial of a given number and display the output
 ```
 
 ## OUTPUT :
-![Alt text](b.png)
+![b](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/a6c66b21-436b-43c2-9f3b-a74ea3f9f6de)
+
 
 ## EXP 9(c)
 ## AIM :
@@ -163,8 +165,11 @@ Run the java code to print the prime numbers N.
 ```
 
 ## OUTPUT :
-![Alt text](c1.png)
-![Alt text](c2.png)
+![c1](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/fbba00d3-72da-4b8b-b0bf-ac4d3ec3dca0)
+
+![c2](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/f6046767-7b73-4d53-a103-c70fb76862ec)
+
+
 
 ## EXP 9(d)
 ## AIM :
@@ -269,21 +274,22 @@ Run the code.
 ```
 
 ## OUTPUT :
-![Alt text](d1.png)
+![d1](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/b75d6e1e-e3b0-4ceb-b99c-d68a629ca81b)
 
-![Alt text](d2.png)
+![d2](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/2ede6864-8043-4969-806f-349f7a111e1a)
 
-![Alt text](d3.png)
+![d3](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/0f9d1b54-781a-4ea4-8b59-b98d4de8f122)
 
-![Alt text](d4.png)
+![d4](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/4addf457-61f0-4ff4-8869-66342c83a226)
 
-![Alt text](d5.png)
+![d5](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/2dbc597f-4470-4dcb-b888-243294f3967e)
 
-![Alt text](d6.png)
+![d6](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/bec04463-c0be-4183-9e59-bdc4e6aa7862)
 
-![Alt text](d7.png)
+![d7](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/ab32ca9b-187a-4151-94cd-00fbd591bd4f)
 
-![Alt text](d8.png)
+![d8](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/dfa12271-bb80-452d-9a68-3066df7578e4)
+
 
 ## EXP 9(e)
 ## AIM :
@@ -371,23 +377,23 @@ Simple Text Editor using JavaScript
 ```
 
 ## OUTPUT :
-![Alt text](e1.png)
+![e1](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/4c432221-d5df-494f-8d53-787ece5216fb)
 
-![Alt text](e2.png)
+![e2](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/78e39638-2a6b-433b-b47f-5ac3fe36ed3d)
 
-![Alt text](e3.png)
+![e3](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/c294ffc7-61c0-42ec-9a60-8e85679ad75a)
 
-![Alt text](e4.png)
+![e4](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/d57dcb97-755b-40de-bf59-61aa53c12d13)
 
-![Alt text](e5.png)
+![e5](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/e619eb1f-81ab-4f0f-9cb0-0864d49b2b07)
 
-![Alt text](e6.png)
+![e6](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/ee480534-6775-461a-9e5f-a79b431d666a)
 
-![Alt text](e7.png)
+![e7](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/c9452991-8482-4f3d-8dee-7dbe4f8559d8)
 
-![Alt text](e8.png)
+![e8](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/09f1e6e9-e1b7-4f99-a5e5-79fd6ca77adc)
 
-![Alt text](e9.png)
+![e9](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/0780ab3c-7abe-4872-bef1-1569a80b4265)
 
 
 ## EXP 9(f)
@@ -455,7 +461,7 @@ function validateForm() {
 ```
 
 ## OUTPUT :
-![Alt text](f.png)
+![f](https://github.com/Renusri-Naraharasetty/ODD23-24-WT-JavaScript/assets/146916363/9b016ed2-4ccb-4d54-9191-f8528d9c6e02)
 
 
 ## RESULT :
